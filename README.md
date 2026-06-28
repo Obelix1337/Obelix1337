@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://trophy.ryglcloud.net/?username=Obelix1337">
-    <img src="https://trophy.ryglcloud.net/?username=Obelix1337&theme=onedark" alt="Trophies" />
+  <a href="https://trophy.benkou.dev/?username=Obelix1337">
+    <img src="https://trophy.benkou.dev/?username=Obelix1337&theme=onedark" alt="Trophies" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 ### 📡 Connect & Intel
 <p align="left">
   <a href="https://obelix1337.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portal-obelix.im-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Portal-obelix1337.com-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
 </p>
 
