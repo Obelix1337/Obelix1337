@@ -24,7 +24,7 @@
 - 🌱 Weaponizing **NodeJS, Python, C++** for custom payload delivery  
 - 👨‍💻 All intel available at **[https://obelix1337.com](https://obelix1337.com)**  
 - 💬 Interrogation topics: **Binary Exploitation, Reverse Engineering, Network Penetration**  
-- 📫 Secure drop: **root@obelix.im**  
+- 📫 Secure drop: **root@obelix1337.com**  
 
 ### 🛠️ Arsenal
 <p align="left">
