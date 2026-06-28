@@ -22,7 +22,7 @@
 ### 🎯 Current Operations
 - 🔭 Infiltrating **[Midas Haxor Team](https://midashaxor.team)** — Red Team Infrastructure  
 - 🌱 Weaponizing **NodeJS, Python, C++** for custom payload delivery  
-- 👨‍💻 All intel available at **[https://obelix.im](https://obelix.im)**  
+- 👨‍💻 All intel available at **[https://obelix1337.com](https://obelix1337.com)**  
 - 💬 Interrogation topics: **Binary Exploitation, Reverse Engineering, Network Penetration**  
 - 📫 Secure drop: **root@obelix.im**  
 
@@ -43,7 +43,7 @@
 
 ### 📡 Connect & Intel
 <p align="left">
-  <a href="https://obelix.im" target="_blank">
+  <a href="https://obelix1337.com" target="_blank">
     <img src="https://img.shields.io/badge/Portal-obelix.im-red?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
   </a>
 </p>
